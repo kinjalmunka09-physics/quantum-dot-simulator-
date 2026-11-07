@@ -14,6 +14,8 @@ Two datasets, Batch A and Batch B, are plotted and compared using scatter points
 
 Results and Visualisation 
 
+![Quantum Dot Energy Comparison](quantum_dot_comparison_.png)
+
 The graph illustrates how electron energy varies with quantum dot width in both datasets.
 
 The scatter points represent the original data, while the smooth curves represent cubic spline interpolation between the supplied values.
